@@ -1,0 +1,7 @@
+@inproceedings{REPO059,
+    author = "Zhu, Luyang and Yang, Dawei and Zhu, Tyler and Reda, Fitsum and Chan, William and Saharia, Chitwan and Norouzi, Mohammad and Kemelmacher-Shlizerman, Ira",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "4606--4615",
+    title = "{TryOnDiffusion: A Tale of Two UNets}",
+    year = "2023"
+}
